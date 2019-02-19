@@ -17,5 +17,6 @@
          <input type="reset" value="Annuler" name="annuler"> 
       </p>
 </form>
-
+      <br /><br /><br />
+Version 0.1.001
 </div>
