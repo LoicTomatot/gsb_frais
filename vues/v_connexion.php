@@ -6,17 +6,17 @@
    
     
 			<p>
-       <label for="nom">Login*</label>
-       <input id="login" type="text" name="login"  size="30" maxlength="45">
+       <label id="leslabels" for="nom">Nom d'utilisateur :</label><br />
+       <input id="login" type="text" name="login" placeholder="Saisir un nom d'utilisateur" size="30" maxlength="45">
       </p>
 			<p>
-				<label for="mdp">Mot de passe*</label>
-			  <input id="mdp"  type="password"  name="mdp" size="30" maxlength="45">
+				<label id="leslabels" for="mdp">Mot de passe :</label><br />
+			  <input id="mdp"  type="password" placeholder="Saisir un mot de passe" name="mdp" size="30" maxlength="45">
       </p>
-         <input type="submit" value="Valider" name="valider">
-         <input type="reset" value="Annuler" name="annuler"> 
+      <input type="checkbox" name="souvenir" id="cochersouvenir" /><label for="souvenir">Se souvenir de moi</label><br />
+         <input type="submit" value="Connexion" name="valider">
       </p>
 </form>
       <br /><br /><br />
-Version 0.1.001
+Version 0.1.0
 </div>
