@@ -14,9 +14,9 @@
 			  <input id="mdp"  type="password" placeholder="Saisir un mot de passe" name="mdp" size="30" maxlength="45">
       </p>
       <input type="checkbox" name="souvenir" id="cochersouvenir" /><label for="souvenir">Se souvenir de moi</label><br />
-         <input type="submit" value="Connexion" name="valider">
+         <div id="boutonconnexion"><input type="submit" value="Connexion" name="valider"></div>
       </p>
 </form>
       <br /><br /><br />
-Version 0.1.0
+<div id="version">Version 0.1.0</div></div>
 </div>
