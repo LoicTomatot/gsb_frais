@@ -13,16 +13,52 @@ switch($action){
 		$mdp = $_REQUEST['mdp'];
 		$visiteur = $pdo->getInfosVisiteur($login,$mdp);
 		if(!is_array( $visiteur)){
-			ajouterErreur("Login ou/et mot de passe incorrect");
-			include("vues/v_erreurs.php");
-			include("vues/v_connexion.php");
+			$comptable = $pdo->getInfosComptable($login,$mdp);
+			if(!is_array( $comptable)){
+				ajouterErreur("Login ou/et mot de passe incorrect");
+				include("vues/v_erreurs.php");
+				include("vues/v_connexion.php");
 		}
+		else
+		{
+			$id = $comptable['id'];
+			$nom =  $comptable['nom'];
+			$prenom = $comptable['prenom'];
+			connecter($id,$nom,$prenom);
+			include("vues/v_sommaireComptable.php");
+			?>
+			<div style = "
+    text-align: center;
+    font-size: 30px;
+    ">Vous êtes connecté !
+    <div style = "
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 200px;
+    margin-top: 20px;
+    ">Votre profil Comptable est activé.</div>
+    </div><?php
+			}
+		}
+
 		else{
 			$id = $visiteur['id'];
 			$nom =  $visiteur['nom'];
 			$prenom = $visiteur['prenom'];
 			connecter($id,$nom,$prenom);
 			include("vues/v_sommaire.php");
+			?>
+			<div style = "
+    text-align: center;
+    font-size: 30px;
+    ">Vous êtes connecté !
+    <div style = "
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 200px;
+    margin-top: 20px;
+    ">Votre profil Utilisateur est activé.</div>
+    </div><?php
 		}
 		break;
 	}
