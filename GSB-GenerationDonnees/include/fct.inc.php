@@ -7,6 +7,7 @@ function getLesVisiteurs($pdo)
 		$lesLignes = $res->fetchAll();
 		return $lesLignes;
 }
+//Un commentaire
 function getLesFichesFrais($pdo)
 {
 		$req = "select * from fichefrais";
