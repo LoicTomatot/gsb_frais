@@ -7,11 +7,11 @@
     
 			<p>
        <label id="leslabels" for="nom">Nom d'utilisateur :</label><br />
-       <input id="login" type="text" name="login" placeholder="Saisir un nom d'utilisateur" size="30" maxlength="45">
+       <input id="login" type="text" name="login" placeholder="Saisir un nom d'utilisateur" size="30" maxlength="45" value=<?php print($_SESSION['login'])?>>
       </p>
 			<p>
 				<label id="leslabels" for="mdp">Mot de passe :</label><br />
-			  <input id="mdp"  type="password" placeholder="Saisir un mot de passe" name="mdp" size="30" maxlength="45">
+			  <input id="mdp"  type="password" placeholder="Saisir un mot de passe" name="mdp" size="30" maxlength="45" value=<?php print($_SESSION['mdp'])?>>
       </p>
       <input type="checkbox" name="souvenir" id="cochersouvenir" /><label for="souvenir">Se souvenir de moi</label><br />
          <div id="boutonconnexion"><input type="submit" value="Connexion" name="valider"></div>

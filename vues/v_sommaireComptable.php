@@ -14,6 +14,12 @@
 			</li>
            
  	   <li class="smenu">
+              <a href="index.php?uc=connexion&action=deconnexion" title="Validation">Validation des fiches</a>
+           </li>
+    <li class="smenu">
+              <a href="index.php?uc=connexion&action=deconnexion" title="Se déconnecter">Suivi des fiches validées</a>
+           </li>
+    <li class="smenu">
               <a href="index.php?uc=connexion&action=deconnexion" title="Se déconnecter">Déconnexion</a>
            </li>
          </ul>

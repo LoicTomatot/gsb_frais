@@ -1,0 +1,1111 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"transi",
+				"transition-duration\tproperty"
+			],
+			[
+				"trans",
+				"transition-duration\tproperty"
+			],
+			[
+				"lie",
+				"lien_se"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"bakc",
+				"background-color\tproperty"
+			],
+			[
+				"Ban",
+				"bahnschrift"
+			],
+			[
+				"Stop",
+				"StopOrbit"
+			],
+			[
+				"Show",
+				"ShowMessages"
+			],
+			[
+				"Fade",
+				"FadeIn"
+			],
+			[
+				"Goto",
+				"GotoLocation"
+			],
+			[
+				"Wait",
+				"WaitMessage"
+			],
+			[
+				"Got",
+				"Goto"
+			],
+			[
+				"OptimizeSM",
+				"OptimizeSM {}"
+			],
+			[
+				"Opti",
+				"OptimizeSM {}"
+			],
+			[
+				"Op",
+				"OptimizeSM {}"
+			],
+			[
+				"opti",
+				"OptimizeSM {}"
+			],
+			[
+				"Screensh",
+				"Screenshot {}"
+			],
+			[
+				"Scre",
+				"Screenshot {}"
+			],
+			[
+				"Scr",
+				"Screenshot {}"
+			],
+			[
+				"Play",
+				"PlaySplinePath {}"
+			],
+			[
+				"s",
+				"support\tconvention"
+			],
+			[
+				"Go",
+				"Goto{}"
+			],
+			[
+				"lo",
+				"Loop"
+			],
+			[
+				"PlaySplinePath",
+				"PlaySplinePath {}"
+			],
+			[
+				"dist",
+				"Dist"
+			],
+			[
+				"sta",
+				"StarColorShift"
+			],
+			[
+				"Ex",
+				"Exposure"
+			],
+			[
+				"e",
+				"elif"
+			],
+			[
+				"Set",
+				"SetWidgetStyle"
+			],
+			[
+				"G",
+				"Goto"
+			],
+			[
+				"go",
+				"Goto"
+			],
+			[
+				"d",
+				"dbgShowLandDetTexArrays"
+			],
+			[
+				"m",
+				"meta\tconvention"
+			],
+			[
+				"date",
+				"dateanniv"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"datr",
+				"date_format"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"session_un",
+				"session_unset"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"dec",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"transition",
+				"transition-duration\tproperty"
+			],
+			[
+				"transform",
+				"text-transform\tproperty"
+			],
+			[
+				"tr",
+				"transform-origin\tproperty"
+			],
+			[
+				"email",
+				"emailoublie"
+			],
+			[
+				"str",
+				"strcode"
+			],
+			[
+				"out",
+				"outline\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"field",
+				"field-input"
+			],
+			[
+				"or",
+				"transform-origin\tproperty"
+			],
+			[
+				"text-decoration",
+				"text-decoration\tproperty"
+			],
+			[
+				"alig",
+				"align-self\tproperty"
+			],
+			[
+				"backgroundc",
+				"background-color\tproperty"
+			],
+			[
+				"transfor",
+				"transform-origin\tproperty"
+			],
+			[
+				"translate",
+				"translateY()\ttransform"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"code",
+				"codeinscrit"
+			],
+			[
+				"marti",
+				"margin-left\tproperty"
+			],
+			[
+				"mdp",
+				"mdp_supp"
+			],
+			[
+				"prenom",
+				"prenom_utili"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"do",
+				"donnees"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"myslq",
+				"mysql_close"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"longu",
+				"longueur"
+			],
+			[
+				"num",
+				"NumType"
+			],
+			[
+				"L",
+				"Longueur"
+			],
+			[
+				"His",
+				"HistoireLigne"
+			],
+			[
+				"No",
+				"NomLigne"
+			],
+			[
+				"Num",
+				"NumLigne"
+			],
+			[
+				"Nom",
+				"NomGare"
+			],
+			[
+				"dat",
+				"DateOuverture"
+			],
+			[
+				"E",
+				"Etat"
+			],
+			[
+				"NU",
+				"NumLigne"
+			],
+			[
+				"N",
+				"NumLigne"
+			],
+			[
+				"Nu",
+				"NumGare"
+			],
+			[
+				"C",
+				"CONSTRAINT"
+			],
+			[
+				"left",
+				"margin-left\tproperty"
+			],
+			[
+				"font-t",
+				"font-style\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bottom",
+				"text-bottom\tvertical-align"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"colo",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transition-property\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"outline",
+				"outline-color\tproperty"
+			],
+			[
+				"color",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"si",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controleurs/c_gererFrais.php",
+			"settings":
+			{
+				"buffer_size": 1367,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/fct.inc.php",
+			"settings":
+			{
+				"buffer_size": 4516,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/class.pdogsb.inc.php",
+			"settings":
+			{
+				"buffer_size": 10939,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controleurs/c_connexion.php",
+			"settings":
+			{
+				"buffer_size": 1739,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vues/v_connexion.php",
+			"settings":
+			{
+				"buffer_size": 947,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vues/v_sommaire.php",
+			"settings":
+			{
+				"buffer_size": 816,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vues/v_etatFrais.php",
+			"settings":
+			{
+				"buffer_size": 1656,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vues/v_sommaireComptable.php",
+			"settings":
+			{
+				"buffer_size": 776,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 711,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"",
+				"Material Theme: Activate theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"act",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/PPE/gsb 0.1.1",
+		"/C/wamp64/www/PPE/gsb 0.1.1/controleurs",
+		"/C/wamp64/www/PPE/gsb 0.1.1/vues"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/PPE/gsb 0.1.1/vues/v_ajoutFrais.php",
+		"/C/wamp64/www/PPE/gsb 0.1.1/vues/v_entete2.php",
+		"/C/wamp64/www/siteweb/pages/compte/p_connexion/post_connexion.php",
+		"/C/wamp64/www/siteweb/pages/compte/p_connexion/index.html",
+		"/C/wamp64/www/PPE/gsb 0.1.1/vues/v_sommaire.php",
+		"/C/wamp64/www/PPE/gsb 0.1.1/include/class.pdogsb.inc.php",
+		"/C/wamp64/www/PPE/gsb 0.1.1/index.php",
+		"/C/wamp64/www/project1/index.php",
+		"/C/wamp64/www/siteweb/pages/compte/p_connexion/edit_profile.php",
+		"/C/wamp64/www/protocole_se/styles/js/index.php",
+		"/C/wamp64/www/protocole_se/styles/index.php",
+		"/C/wamp64/www/siteweb/pages/compte/vues/v_head_utilisateurscss.html",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/Lukasz1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Lukasz1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Sc_Spiral_Galaxy.se",
+		"/C/wamp64/www/siteweb/pages/compte/styles/style_connexion.css",
+		"/C/wamp64/www/siteweb/pages/compte/connexion.php",
+		"/C/wamp64/www/siteweb/.htaccess",
+		"/C/wamp64/www/protocole_se/en/accueil.php",
+		"/C/wamp64/www/siteweb/image/index.html",
+		"/C/wamp64/www/protocole_se/en/index.php",
+		"/C/wamp64/www/siteweb/index.html",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/config/pic2880E15884F85.jpg",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$EXa2532.18404/modlist.html",
+		"/C/Users/Alan DESMURS/Pictures/se 0.990/LoicT002(Antennea)(à placer)/catalogs/galaxies/LoicT002.sc",
+		"/C/wamp64/www/protocole_se/index.html",
+		"/C/wamp64/www/siteweb/pages/compte/styles/style.css",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/scp07376/plugins/dynmap/web/index.html",
+		"/C/Users/Alan DESMURS/Pictures/se 0.990/Galaxies faites/NGC 3982(bon)/catalogs/galaxies/NGC_3982.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/catalogs/galaxies/NGC_3982.sc",
+		"/C/Users/Alan DESMURS/Pictures/se 0.990/Galaxies faites/NGC 4921(bon)/NGC 4921.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa11300.10807/LocalGroup.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa11300.9088/Kexitt.sc",
+		"/C/Users/Alan DESMURS/Pictures/se 0.990/Galaxies faites/NGC 922/NGC 922.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15708.42388/LocalGroup.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15708.41218/Kexitt.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa2124.25752/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa16148.9140/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa6248.26513/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa9648.24136/Kexitt.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15880.1524/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5824.47180/Kexitt.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15880.45122/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15880.8791/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15880.24827/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15880.655/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15880.47583/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa3200.30131/Kexitt.sc",
+		"/C/Users/Alan DESMURS/Pictures/se 0.990/Galaxies faites/ARP 142/NGC 2936.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa7304.46725/Kexitt.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa3716.2080/Arp 142.sc",
+		"/C/Users/Alan DESMURS/Pictures/se 0.990/NGC 4676 (à faire)/NGC 4676.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa14804.32086/LoicT002.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa12584.9723/LoicT002.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa2996.45761/LoicT002.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa3332.34966/LoicT002.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa4840.4894/LoicT002.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa4840.957/LoicT002.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/LoicT002.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/catalogs/galaxies/LoicT001.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa2472.26054/Arp_142.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/Arp 142.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa1824.26925/Arp_142.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa14048.22428/Arp_142.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa1824.9837/Arp_142.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/catalogs/galaxies/NGC_922.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/catalogs/galaxies/Arp_142.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa10520.47640/SpaceEngine.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa10520.35114/Kexitt.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/export/star_planet_test.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/export/a_planet_test.sc",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa10520.19248/LocalGroup.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/models/galaxies/ARP2.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/catalogs/galaxies/Arp 142.sc",
+		"/C/Users/Alan DESMURS/3D Objects/addons/scripts/VisitOurSolarSystem.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa6460.42247/VisitOurSolarSystemScript.se",
+		"/C/Users/Alan DESMURS/3D Objects/addons/mes addons/visitoursolarsystem.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa1416.37594/KexittCatalog.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/models/galaxies/ARP.sc",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/cache/models/galaxies/Arp148.gm",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/catalogs/galaxies/ARP_142.sc",
+		"/C/Users/Alan DESMURS/Pictures/se 0.990/Nouveau dossier/ARP_142.sc",
+		"/C/Users/Alan DESMURS/Downloads/chat.php",
+		"/C/Users/Alan DESMURS/Music/Serveur KOZMOS Minecraft/Kozmos/server.properties",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa12840.12705/FeaturesLoader.se",
+		"/C/Program Files/Adobe/Adobe After Effects CS6/Support Files/Plug-ins/AE Sweets/Glitch7in1.aex",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa14216.23375/visitoursolarsystem.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa12216.8167/tut-00-interface.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa10636.35289/visitoursolarsystem.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa10636.48292/visitoursolarsystem.se",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/MainMenu.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/tut-00-interface.se",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/locale/fra-gui.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/VisitOurSolarSystem.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa3852.32387/visitoursolarsystem.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa3852.41228/DefaultSettings.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa6772.35724/tut-00-interface.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa2196.18794/VisitOurSolarSystemScript.se",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/data/scripts/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa1176.39957/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa11344.24589/tut-00-interface.se",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/DefaultSettings.se",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/menu/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa10928.5104/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa10928.2469/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa10928.4185/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa11804.49960/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa7760.33109/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa12648.25962/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa6844.48659/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa11456.17991/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa212.25966/Scene1.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa212.19014/CheckLoc.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa9008.41967/SpaceEngine Scripting Language.sublime-syntax",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15524.5102/tut-00-interface.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15524.34299/tut-07-star-browser.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15524.16205/tut-07-star-browser.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15524.5561/tut-03-time-control.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15524.4636/tut-02-free-mov.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15524.3227/tut-01-basic-mov.se",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/montuto.se",
+		"/C/Users/Alan DESMURS/Videos/listsescript.txt",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.22211/tut-07-star-browser.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.16171/tut-07-star-browser.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.11475/tut-06-system-chart.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.46394/tut-05-univ-map.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.1683/tut-04-camera.se",
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.6957/tut-00-interface.se"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controleurs/c_gererFrais.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								928,
+								928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 284.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/fct.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3423,
+								3423
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1773.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "include/class.pdogsb.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8577,
+								8577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4433.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "controleurs/c_connexion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								769,
+								769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 363.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "vues/v_connexion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 44.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "vues/v_sommaire.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "vues/v_etatFrais.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "vues/v_sommaireComptable.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								573,
+								573
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 94.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 87.0
+	},
+	"pinned_build_system": "",
+	"project": "gsb.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

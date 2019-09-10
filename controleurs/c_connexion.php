@@ -12,6 +12,15 @@ switch($action){
 		$login = $_REQUEST['login'];
 		$mdp = $_REQUEST['mdp'];
 		$visiteur = $pdo->getInfosVisiteur($login,$mdp);
+		if (isset($_POST['souvenir']) == true)
+		{
+			$_SESSION['login'] = $login;
+			$_SESSION['mdp'] = $mdp;
+		}
+		else{
+			$_SESSION['login'] = "";
+			$_SESSION['mdp'] = "";
+		}
 		if(!is_array( $visiteur)){
 			$comptable = $pdo->getInfosComptable($login,$mdp);
 			if(!is_array( $comptable)){
