@@ -444,19 +444,36 @@
 	"buffers":
 	[
 		{
-			"file": "controleurs/c_gererFrais.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 1367,
+				"buffer_size": 830,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controleurs/c_etatFrais.php",
+			"settings":
+			{
+				"buffer_size": 1270,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controleurs/c_validationFrais.php",
+			"settings":
+			{
+				"buffer_size": 302,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "include/fct.inc.php",
+			"file": "vues/v_choixVisiteur.php",
 			"settings":
 			{
-				"buffer_size": 4516,
+				"buffer_size": 883,
 				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
@@ -465,61 +482,8 @@
 			"file": "include/class.pdogsb.inc.php",
 			"settings":
 			{
-				"buffer_size": 10939,
+				"buffer_size": 11134,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "controleurs/c_connexion.php",
-			"settings":
-			{
-				"buffer_size": 1739,
-				"encoding": "UTF-8 with BOM",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "vues/v_connexion.php",
-			"settings":
-			{
-				"buffer_size": 947,
-				"encoding": "UTF-8 with BOM",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "vues/v_sommaire.php",
-			"settings":
-			{
-				"buffer_size": 816,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "vues/v_etatFrais.php",
-			"settings":
-			{
-				"buffer_size": 1656,
-				"encoding": "UTF-8 with BOM",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "vues/v_sommaireComptable.php",
-			"settings":
-			{
-				"buffer_size": 776,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 711,
 				"line_ending": "Windows"
 			}
 		}
@@ -584,18 +548,27 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/PPE/gsb 0.1.1",
-		"/C/wamp64/www/PPE/gsb 0.1.1/controleurs",
-		"/C/wamp64/www/PPE/gsb 0.1.1/vues"
+		"/C/wamp64/www/PPE/gsb 0.1.2",
+		"/C/wamp64/www/PPE/gsb 0.1.2/controleurs",
+		"/C/wamp64/www/PPE/gsb 0.1.2/include",
+		"/C/wamp64/www/PPE/gsb 0.1.2/vues"
 	],
 	"file_history":
 	[
-		"/C/wamp64/www/PPE/gsb 0.1.1/vues/v_ajoutFrais.php",
-		"/C/wamp64/www/PPE/gsb 0.1.1/vues/v_entete2.php",
-		"/C/wamp64/www/siteweb/pages/compte/p_connexion/post_connexion.php",
-		"/C/wamp64/www/siteweb/pages/compte/p_connexion/index.html",
-		"/C/wamp64/www/PPE/gsb 0.1.1/vues/v_sommaire.php",
-		"/C/wamp64/www/PPE/gsb 0.1.1/include/class.pdogsb.inc.php",
+		"/C/wamp64/www/PPE/gsb 0.1.2/vues/v_sommaireComptable.php",
+		"/C/wamp64/www/PPE/gsb 0.1.2/vues/v_connexion.php",
+		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/VisitOurSolarSystem.se",
+		"/C/Users/Alan DESMURS/AppData/Roaming/Sublime Text 3/Packages/User/SpaceEngine Scripting Language.sublime-syntax",
+		"/C/Users/Alan DESMURS/AppData/Roaming/Sublime Text 3/Packages/User/se_completions.sublime-completions",
+		"/C/Users/Alan DESMURS/Desktop/Développement/BTS SIO 2019-2020/PPE/Stage 1ère année/backup_export_2.ksh",
+		"/C/Program Files/Unity/Hub/Editor/2019.1.10f1/Editor/Data/Documentation/en/Manual/index.html",
+		"/C/wamp64/www/protocole_se/index.php",
+		"/C/wamp64/www/protocole_se/fr/help_fr.php",
+		"/C/wamp64/www/protocole_se/en/help_en.php",
+		"/C/wamp64/www/protocole_se/styles/style.css",
+		"/C/wamp64/www/protocole_se/en/index.php",
+		"/C/wamp64/www/protocole_se/fr/index.php",
+		"/C/wamp64/www/siteweb/pages/compte/p_connexion/upload.php",
 		"/C/wamp64/www/PPE/gsb 0.1.1/index.php",
 		"/C/wamp64/www/project1/index.php",
 		"/C/wamp64/www/siteweb/pages/compte/p_connexion/edit_profile.php",
@@ -610,7 +583,6 @@
 		"/C/wamp64/www/siteweb/.htaccess",
 		"/C/wamp64/www/protocole_se/en/accueil.php",
 		"/C/wamp64/www/siteweb/image/index.html",
-		"/C/wamp64/www/protocole_se/en/index.php",
 		"/C/wamp64/www/siteweb/index.html",
 		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/config/pic2880E15884F85.jpg",
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$EXa2532.18404/modlist.html",
@@ -683,7 +655,6 @@
 		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/MainMenu.cfg",
 		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/tut-00-interface.se",
 		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/locale/fra-gui.cfg",
-		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/VisitOurSolarSystem.se",
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa3852.32387/visitoursolarsystem.se",
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa3852.41228/DefaultSettings.se",
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa6772.35724/tut-00-interface.se",
@@ -711,13 +682,7 @@
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15524.4636/tut-02-free-mov.se",
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa15524.3227/tut-01-basic-mov.se",
 		"/C/Program Files (x86)/Steam/steamapps/common/SpaceEngine/addons/scripts/montuto.se",
-		"/C/Users/Alan DESMURS/Videos/listsescript.txt",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.22211/tut-07-star-browser.se",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.16171/tut-07-star-browser.se",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.11475/tut-06-system-chart.se",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.46394/tut-05-univ-map.se",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.1683/tut-04-camera.se",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa5396.6957/tut-00-interface.se"
+		"/C/Users/Alan DESMURS/Videos/listsescript.txt"
 	],
 	"find":
 	{
@@ -735,6 +700,127 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"NGC 922",
+			"show",
+			"interface",
+			"show",
+			"UI",
+			"ui",
+			"show",
+			"fade",
+			"FadeOut",
+			"FadeIn",
+			"ShowMarkersAsteroids",
+			"ShowMarkersComets",
+			"\" },",
+			"},\n",
+			"Set",
+			", ",
+			"Clouds",
+			"Time",
+			"Select",
+			"FOV",
+			"EndLoop",
+			"Loop",
+			"\" },",
+			"Unselect",
+			"Wait",
+			"break",
+			"distkm",
+			"dist",
+			"},\n",
+			"highlightWidget",
+			"\" },",
+			"timescale",
+			"Run",
+			"\" },",
+			"Show",
+			"\" },",
+			"\" }",
+			"\" },",
+			"Goto",
+			"{ \"trigger\": \"\", \"contents\": \"\" },",
+			"\"\",",
+			"0",
+			"CheckVersion",
+			"ShowConstellations",
+			"ShowClouds",
+			"ChartDisplayMode",
+			"Interpolate",
+			"LabelsMode",
+			"ShowOrbits",
+			"UserMoveControl",
+			"Scene",
+			"Map",
+			"Visible",
+			"Path",
+			"Opacity",
+			"Recenter",
+			"Name",
+			"Format",
+			"GUI",
+			"Edit",
+			"Quit",
+			"Exit",
+			"Freq",
+			"Time",
+			"PosPix",
+			"Pos",
+			"TextColor",
+			"WinColor",
+			"Mode",
+			"Tab",
+			"HideMessage",
+			"ShowMessage",
+			"WaitMessage",
+			"AlignX",
+			"PosX",
+			"Goto",
+			"FadeIn",
+			"FadeOut",
+			"ConstelBordersFadeEnd",
+			"Fill",
+			"FadeIn",
+			"FadeOut",
+			"Rotate",
+			"Fill",
+			"YawRange",
+			"LonLatRange",
+			"Range",
+			"Dir",
+			"Rect",
+			"AnimateObject",
+			"ActivationDelay",
+			"Value",
+			"MaxWaitTime",
+			"TimeRange",
+			"Mode",
+			"Dialog",
+			"Type",
+			"Object",
+			"SplineData",
+			"FollowQuat",
+			"PosSpline",
+			"Duration",
+			"SyncRot",
+			"Orbit",
+			"Body",
+			"Texture",
+			"Shape",
+			"Color",
+			"Roll",
+			"Radius",
+			"Label",
+			"Visible",
+			"StopOrbit",
+			"Func",
+			"FadeTime",
+			"Axis",
+			"SyncRot",
+			"Follow",
+			"Speed",
+			"center",
+			"Waittrigger"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -752,24 +838,24 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "controleurs/c_gererFrais.php",
+					"file": "index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1367,
+						"buffer_size": 830,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								928,
-								928
+								791,
+								791
 							]
 						],
 						"settings":
@@ -778,27 +864,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 284.8,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "include/fct.inc.php",
-					"semi_transient": false,
+					"file": "controleurs/c_etatFrais.php",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 4516,
+						"buffer_size": 1270,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3423,
-								3423
+								533,
+								533
 							]
 						],
 						"settings":
@@ -807,27 +893,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1773.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "include/class.pdogsb.inc.php",
+					"file": "controleurs/c_validationFrais.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10939,
+						"buffer_size": 302,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8577,
-								8577
+								284,
+								284
 							]
 						],
 						"settings":
@@ -836,7 +922,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4433.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
@@ -844,19 +930,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "controleurs/c_connexion.php",
+					"file": "vues/v_choixVisiteur.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1739,
+						"buffer_size": 883,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								769,
-								769
+								439,
+								439
 							]
 						],
 						"settings":
@@ -864,147 +950,27 @@
 							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 363.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "vues/v_connexion.php",
+					"file": "include/class.pdogsb.inc.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 947,
+						"buffer_size": 11134,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								468,
-								468
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 44.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "vues/v_sommaire.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 816,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "vues/v_etatFrais.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1656,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "vues/v_sommaireComptable.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 776,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								573,
-								573
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 94.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 711,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								11125,
+								11125
 							]
 						],
 						"settings":
@@ -1013,10 +979,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5576.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
