@@ -313,5 +313,11 @@ class PdoGsb{
 		where fichefrais.idvisiteur ='$idVisiteur' and fichefrais.mois = '$mois'";
 		PdoGsb::$monPdo->exec($req);
 	}
+
+	public function selectionVisiteur(){
+		$req = "select visiteur.id as id, visiteur.nom as nom, visiteur.prenom as prenom from visiteur";
+		$res = PdoGsb::$monPdo->query($req);
+		return $res;
+	}
 }
 ?>

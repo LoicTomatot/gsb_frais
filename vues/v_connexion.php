@@ -18,5 +18,5 @@
       </p>
 </form>
       <br /><br /><br />
-<div id="version">Version 0.1.1_beta</div></div>
+<div id="version">Version 0.1.2_beta</div></div>
 </div>

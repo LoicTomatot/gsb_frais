@@ -24,6 +24,11 @@ switch($uc){
 		include("vues/v_entete3.php") ;
 		include("controleurs/c_etatFrais.php");break; 
 	}
+
+	case 'validationFrais' :{
+		include("vues/v_entete2.php") ;
+		include("controleurs/c_validationFrais.php");break;
+	}
 }
 include("vues/v_pied.php") ;
 ?>
