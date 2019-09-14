@@ -10,11 +10,11 @@
         		if(isset($idVisiteur)){
         			if($data['id'] == $idVisiteur){
         				?>
-        				<option value="<?php echo $data['id'] ?>" selected><?php echo $data['nom'],$data['prenom']; ?></option><?php
+        				<option value="<?php echo $data['id'] ?>" selected><?php echo $data['nom'],"&nbsp",$data['prenom']; ?></option><?php
         			}
         		}
         		?>
-        		<option value="<?php echo $data['id'] ?>"><?php echo $data['nom'],$data['prenom']; ?></option><?php
+        		<option value="<?php echo $data['id'] ?>"><?php echo $data['nom'],"&nbsp",$data['prenom']; ?></option><?php
         	}
         ?>
         </select>

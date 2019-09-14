@@ -19,25 +19,37 @@ body
 {
   text-align: center;
 }
-#boutonconnexion
+
+#boite_choix_visiteur
 {
-  position: relative;
+  background-color: red;
+  width: 200px;
+  height: 90px;
+  margin-left: 30px;
   text-align: center;
-  top: 30px;
-  width: 100%;
-  
+  padding: 5px;
 }
-#boutonconnexion input
+
+#boite_choix_visiteur select
 {
-  width: 300px;
-  height: 40px;
+  height: 30px;
+  text-align: center;
+}
+
+#boite_choix_visiteur input
+{
+  display: block;
+  width: 150px;
+  height: 30px;
+  margin: 10 auto;
+  top: 10px;
   cursor: pointer;
   border: 2px solid #0761BB;
   border-radius: 20px;
   background-color: #469FF8;
 }
 
-#boutonconnexion input:hover
+#boite_choix_visiteur input:hover
 {
   border: 4px solid #0761BB;
   border-radius: 7px;
