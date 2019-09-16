@@ -9,13 +9,17 @@ switch($action){
 		break;
 	}
 	case 'valideConnexion':{
-		$login = $_REQUEST['login'];
-		$mdp = $_REQUEST['mdp'];
+		if(isset($_REQUEST['login']) && isset($_REQUEST['mdp']))
+		{
+			$login = $_REQUEST['login'];
+			$mdp = $_REQUEST['mdp'];
+		}
 		$visiteur = $pdo->getInfosVisiteur($login,$mdp);
 		if (isset($_POST['souvenir']) == true)
 		{
 			$_SESSION['login'] = $login;
 			$_SESSION['mdp'] = $mdp;
+			$_SESSION['checked'] = "checked";
 		}
 		else{
 			$_SESSION['login'] = "";
