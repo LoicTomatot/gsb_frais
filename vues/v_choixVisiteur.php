@@ -18,6 +18,6 @@
         	}
         ?>
         </select>
-        <input type="submit" value="Valider le visiteur">
+        <input type="submit" value="<?php if(isset($idVisiteur)){ print("Modifier le visiteur"); }else{ print("Choisir le visiteur"); }?>" >
     </form>
 </div>
