@@ -319,5 +319,11 @@ class PdoGsb{
 		$res = PdoGsb::$monPdo->query($req);
 		return $res;
 	}
+
+	public function selectionVisiteurId($idVisiteur){
+		$req = "select visiteur.nom as nom, visiteur.prenom as prenom from visiteur where visiteur.id ='$idVisiteur'";
+		$res = PdoGsb::$monPdo->query($req);
+		return $res;
+	}
 }
 ?>

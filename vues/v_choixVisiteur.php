@@ -1,7 +1,7 @@
 ﻿ <div id=boite_choix_visiteur>
  	<form method="POST" action="index.php?uc=validationFrais&action=choisirMoisVisiteur">
 
-        <label id="leslabels" for="nom">Visiteurs :</label><br />
+        <label id="leslabels" for="nom">Visiteur :</label><br />
         <select id="listeVisiteur" name="listeVisiteur">
         	<?php
         	$req = $pdo->selectionVisiteur();
