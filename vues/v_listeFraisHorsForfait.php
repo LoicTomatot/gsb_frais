@@ -1,6 +1,6 @@
 ﻿
 <table class="listeLegere">
-  	   <caption>Descriptif des éléments hors forfait
+  	   <caption><h2>Descriptif des éléments hors forfait</h2>
        </caption>
              <tr>
                 <th class="date">Date</th>
@@ -30,6 +30,7 @@
 	?>	  
                                           
     </table>
+    <div id="boitequifaitchier">
       <form action="index.php?uc=gererFrais&action=validerCreationFrais" method="post">
       <div class="corpsForm">
          
@@ -52,12 +53,13 @@
       </div>
       <div class="piedForm">
       <p>
-        <input id="ajouter" type="submit" value="Ajouter" size="20" />
-        <input id="effacer" type="reset" value="Effacer" size="20" />
+        <input id="ajouter" type="submit" value="Nouvel élément hors forfait" size="20" />
+        <input id="effacer" type="reset" value="Supprimer la sélection" size="20" />
       </p> 
       </div>
         
       </form>
+    </div>
   </div>
   
 

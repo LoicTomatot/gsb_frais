@@ -8,7 +8,9 @@ body
 }
 #contenu
 {
+  position:relative;
   margin: 0 auto;
+  top:-100px;
   padding: 10px;
   border-radius: 30px;
   width: 300px;

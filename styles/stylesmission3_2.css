@@ -8,12 +8,24 @@ body
 }
 #contenu
 {
+  position: relative;
   margin: 0 auto;
+  top: -100px;
   padding: 10px;
   border-radius: 30px;
   width: 450px;
-  height: 350px;
+  height: 300px;
   background-color: lightgray;
+}
+#contenu h2
+{
+  font-size: 22px;
+}
+#idfrais
+{
+  position : relative;
+  float: right;
+  right: 118px;
 }
 #ok,#annuler,#ajouter,#effacer
 {
@@ -22,8 +34,8 @@ body
   border-radius: 20px;
   background-color: #469FF8;
   transition-duration: 0.2s;
-  width: 59.4px;
-  height: 19.2px;
+  width: 180px;
+  height: 23px;
 }
 #ok:hover,#annuler:hover,#ajouter:hover,#effacer:hover
 {
@@ -35,7 +47,22 @@ body
 {
   text-align: center;
 }
-
+#boitequifaitchier
+{
+  position:relative;
+  top:30px;
+  width:50px;
+}
+.listeLegere caption
+{
+  position:relative;
+  width:460px;
+}
+.piedForm
+{
+  width:450px;
+}
+/* --------------------------Code comptable----------------------------- */
 #boite_choix_visiteur
 {
   background-color: lightgray;
