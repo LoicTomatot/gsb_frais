@@ -1,6 +1,6 @@
 ﻿
 <table class="listeLegere">
-  	   <caption>Descriptif des éléments hors forfait
+  	   <caption><h2>Descriptif des éléments hors forfait</h2>
        </caption>
              <tr>
                 <th class="date">Date</th>
