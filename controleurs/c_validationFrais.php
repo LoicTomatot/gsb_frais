@@ -24,6 +24,8 @@ switch($action){
 			$moisChoisi = $_REQUEST['lstMois'];
 			$_SESSION['moisChoisi'] = $moisChoisi;
 		}
+		$lesFraisHorsForfait = $pdo->getLesFraisHorsForfait($idVisiteur,$moisChoisi);
+		$lesFraisForfait= $pdo->getLesFraisForfait($idVisiteur,$moisChoisi);
 		include('vues/v_choixVisiteur.php');
 		include("vues/v_listeMoisValidationFiche.php");
 		include("vues/v_validerFiche.php");
