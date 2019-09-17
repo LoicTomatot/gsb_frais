@@ -89,3 +89,49 @@ body
   bottom: 5px;
 }
 
+#validerFiche
+{
+  position: relative;
+  left: 300px;
+  width: 950px;
+  background-color: #5183be;
+  height: 200px;
+  top: -350px;
+  text-align: center;
+  padding-top: 20px;
+  border-radius: 8px;
+  transition-duration: 0.2s;
+}
+#validerFiche:hover
+{
+  background-color: #356bad;
+  transition-duration: 0.2s;
+}
+#validerFiche input
+{
+  position: relative;
+  top: 130px;
+  width: 150px;
+  height: 30px;
+  cursor: pointer;
+  border: 2px solid #1D6D0C;
+  border-radius: 20px;
+  background-color: #61DB47;
+  transition-duration: 0.5s;
+  font-size: 13px;
+}
+#validerFiche input:hover
+{
+  border: 4px solid #F71717;
+  border-radius: 5px;
+  background-color: #FF9191;
+  font-size: 15px;
+  transition-duration: 0.5s;
+  width: 155px;
+  height: 35px;
+}
+#validerFiche label
+{
+  font-size: 20px;
+  font-weight: bold;
+}

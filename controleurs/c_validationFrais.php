@@ -26,6 +26,7 @@ switch($action){
 		}
 		include('vues/v_choixVisiteur.php');
 		include("vues/v_listeMoisValidationFiche.php");
+		include("vues/v_validerFiche.php");
 		break;
 	}
 }
