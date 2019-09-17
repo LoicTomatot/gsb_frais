@@ -11,9 +11,25 @@ body
   margin: 0 auto;
   padding: 10px;
   border-radius: 30px;
-  width: 300px;
-  height: 320px;
+  width: 450px;
+  height: 350px;
   background-color: lightgray;
+}
+#ok,#annuler,#ajouter,#effacer
+{
+  cursor: pointer;
+  border: 2px solid #0761BB;
+  border-radius: 20px;
+  background-color: #469FF8;
+  transition-duration: 0.2s;
+  width: 59.4px;
+  height: 19.2px;
+}
+#ok:hover,#annuler:hover,#ajouter:hover,#effacer:hover
+{
+  background-color: #377CC1;
+  transition-duration: 0.2s;
+  font-size: 13.8px;
 }
 #contenu h2
 {
