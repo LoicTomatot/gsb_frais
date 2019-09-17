@@ -110,8 +110,8 @@ body
 #validerFiche input
 {
   position: relative;
-  top: 130px;
-  width: 150px;
+  top: 90px;
+  width: 400px;
   height: 30px;
   cursor: pointer;
   border: 2px solid #1D6D0C;
@@ -127,11 +127,17 @@ body
   background-color: #FF9191;
   font-size: 15px;
   transition-duration: 0.5s;
-  width: 155px;
+  width: 405px;
   height: 35px;
 }
 #validerFiche label
 {
   font-size: 20px;
   font-weight: bold;
+}
+
+#montantValiderText
+{
+  position: relative;
+  top: 50px;
 }
