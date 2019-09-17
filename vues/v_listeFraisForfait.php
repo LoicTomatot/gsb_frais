@@ -12,7 +12,7 @@
 				{
 					$idFrais = $unFrais['idfrais'];
 					$libelle = $unFrais['libelle'];
-					$quantite = $unFrais['quantite']; //commentaire
+					$quantite = $unFrais['quantite'];
 			?>
 					<p>
 						<label for="idFrais"><?php echo $libelle ?></label>
