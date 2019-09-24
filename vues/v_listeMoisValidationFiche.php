@@ -30,9 +30,7 @@
 		   ?>
         </select>
       </div>
-      <div class="piedForm">
         <input type="submit" value="<?php if(isset($moisChoisi)){ print("Modifier le mois"); }else{ print("Valider le mois"); }?>" size="20" />
-      </div>
         
       </form>
 </div>
