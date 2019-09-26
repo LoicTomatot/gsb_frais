@@ -626,6 +626,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Alan DESMURS/Desktop/Développement/BTS SIO 2019-2020/SLAM5/XML/SLAM5_XML_ressources/commande.xml",
+		"/C/Users/Alan DESMURS/Desktop/Développement/BTS SIO 2019-2020/SLAM5/XML/SLAM5_XML_ressources/exemple.dtd",
 		"/C/wamp64/www/protocole_se/styles/style.css",
 		"/C/wamp64/www/PPE/gsb 0.1.2/gsb_frais.sql",
 		"/C/Users/Alan DESMURS/Documents/Rapport MOO complet.html",
@@ -751,9 +753,7 @@
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa12648.25962/Scene1.se",
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa6844.48659/Scene1.se",
 		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa11456.17991/Scene1.se",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa212.25966/Scene1.se",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa212.19014/CheckLoc.se",
-		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa9008.41967/SpaceEngine Scripting Language.sublime-syntax"
+		"/C/Users/Alan DESMURS/AppData/Local/Temp/Rar$DIa212.25966/Scene1.se"
 	],
 	"find":
 	{
@@ -1054,7 +1054,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 95.2,
+						"translation.y": 95.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
